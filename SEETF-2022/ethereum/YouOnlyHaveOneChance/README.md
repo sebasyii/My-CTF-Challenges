@@ -1,4 +1,4 @@
-# [EASY] YouOnlyHaveOneChance - Solution
+# YouOnlyHaveOneChance - Solution
 
 **Author**: AtlanticBase
 

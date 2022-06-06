@@ -1,4 +1,4 @@
-# [MEDIUM] DuperSuperSafeSafe - Solution
+# DuperSuperSafeSafe - Solution
 
 **Author**: AtlanticBase
 
